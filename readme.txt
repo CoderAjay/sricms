@@ -18,7 +18,14 @@ side by side folder having folder as alias
 [doubt]{only core has functionality to update modules of other sites / other ste also have all tings}
 
 
+
+
+/config section
 configurations will be devided into two parts development/production
   may be futher on test
+  default configuration will be supplied time of installation then
+  after -> update on first run -> for each run configuration will be use from redis
+  so that live updation can be done (rather than restarting the server all time)
+  Also memcache/redis will be used to provide configuration load from mongo first
 
 [Need to follow up with TDD approach]
