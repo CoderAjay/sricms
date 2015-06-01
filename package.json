@@ -1,0 +1,14 @@
+{
+  "name": "alias",
+  "version": "0.0.1",
+  "description": "nodejs based cms",
+  "main": "GulpFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CoderAjay",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
+}
