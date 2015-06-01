@@ -1,3 +1,19 @@
+Installation
+for installation an angular app will be served as index.html(index.php) to control access
+then it will take up all the confgiurations like.
+  site name
+  select type of website
+  mongodb url
+  theme
+  social auth -> setting up social auth
+  modules/features/packages to install -> config each package if required
+
+
+
+satta
+
+
+
 core will contain the installation code
    which can create a new website
 core\ folder descriptions
