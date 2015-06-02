@@ -10,9 +10,6 @@ then it will take up all the confgiurations like.
 
 
 
-satta
-
-
 
 core will contain the installation code
    which can create a new website
@@ -45,3 +42,4 @@ configurations will be devided into two parts development/production
   Also memcache/redis will be used to provide configuration load from mongo first
 
 [Need to follow up with TDD approach]
+poc {Event based workflow for modules}
